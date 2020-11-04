@@ -1,0 +1,12 @@
+session_name: nyc-subway
+start_directory: /home/james/Projects/nyc-subway
+shell_command_before: sv
+environment:
+        MTAACCESSKEY: wWqmuOMp3N7ezTxJABW7p6Mherl0GOgR8KnUrJ7D
+windows:
+        - window_name: main
+          layout: main-vertical
+          panes:
+                  - vim scratch.py
+                  -
+                  - py3

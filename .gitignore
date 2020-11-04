@@ -1,0 +1,4 @@
+*.swp
+*-env/
+data/*
+access_key.txt
